@@ -1,0 +1,15 @@
+h2 {
+    text-align: center;
+    background: cornflowerblue;
+    border-radius: 50px;
+    padding: 10px;
+    border: 2px solid red;
+    margin: 15px;
+    color: blue;
+}
+
+i{
+    color: red;
+}
+
+h3
